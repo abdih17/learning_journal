@@ -1,0 +1,3 @@
+# LJ Code 201 - Day 5:
+
+Overall last week was very eventful in the sense that I learned a whole and much more than I could have learned during my one week pre-work session. Although I had a good grasp on HTML and CSS prior to applying for Code Fellows, I honestly had little to no exposure to Javascript before that. I'm glad I was able to keep up with the class even though I had a lot help from the TAs the majority of the time. Conceptually I did gain a lot of information, but I can't wait to process and apply these information holistically soon after this week and the next are over. I'm also pretty glasd that I got to deploy my webpage at the end of this week too! Now that is a great accomplishment for me!  
